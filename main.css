@@ -1,0 +1,47 @@
+body {
+  background-image: url("http://s20.postimg.org/lsfwoa6vx/computer_1339867_1920.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 48px;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 4px 4px #ff0000;
+  margin-top: 100px;
+}
+.calculator {
+  background-color: #cc00ff;
+  box-shadow: 2px 2px 1px #00ff00;
+  width: 250px;
+  height: 318px;
+  border-radius: 5%;
+  margin: 0 auto;
+}
+
+.display {
+  padding-top: 11px;
+}
+
+input {
+  width: 85%;
+  height: 25px;
+  margin-left: 6.5%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1vw;
+}
+
+.buttons {
+  width: 90%;
+  margin-left: 6.5%;
+  margin-top: 5px;
+  }
+
+button {
+  width: 23%;
+  height: 50px;
+  margin-top: 2px;
+  border-radius: 5%;
+}
+
